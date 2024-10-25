@@ -11,6 +11,11 @@ The chatbot's dataset is compiled from a variety of reliable sources, including 
 
 LangChain is the primary framework used in this project for building dialogue flows and managing large language models (LLMs). LangChain enables the integration of diverse language models and allows for seamless optimization and conversation handling. With LangChain, the system can deploy complex conversation flows and manage context efficiently, providing a natural interactive experience for users.
 <br/><br/>
+## **Streamlit**
+
+Streamlit is used as the main tool to develop the user interface for the mental health support chatbot. With Streamlit, interface components are built quickly and easily, allowing users to interact directly with the chatbot on the web platform.
+<br/><r/>
+<br/><r/>
 ## **Language Models Used**
 
 To evaluate and compare the chatbot's effectiveness, the project employs several large language models, including GPT-3.5, Gemini 1.5 Pro, and VinaLLama. This comparison helps identify the optimal model for mental health responses while assessing each model's capabilities and limitations when applied to specific conversational scenarios.

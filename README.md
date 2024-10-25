@@ -2,7 +2,7 @@
 
 Developing a mental health support chatbot built as a **Hybrid Dialogue System**. This is a hybrid dialogue system that combines rule-based response models with modern large language models (LLMs) to provide automated responses tailored to each user’s situation and needs.
 <br/><br/>
-![My Photo](./Chatbot_resfes.jpg)
+![My Photo](./Chatbot.jpg)
 ## **Dataset**
 
 The chatbot's dataset is compiled from a variety of reliable sources, including books, documents, and research papers related to mental health. Aggregating data from credible sources ensures that the responses and advice provided by the chatbot are based on well-founded knowledge and principles, offering valuable support to users.
